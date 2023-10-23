@@ -42,3 +42,22 @@ mi tienda tiene de contraseña : contraseñadetienda
 ![Estoy creando un imperio](./imagenes/prueba2.png)
 ![Llamenme empresario](./imagenes/prueba3.png)
 ![No Me Digas Mas imagenes](./imagenes/prueba4.png)
+
+## Conectar
+Para que vean que se concecto con phpstorm
+se inicia un proyecto en phpstorm, vamos en la terminal usamos el comando de antes, y luego vamos a la parte de service, le damos al signo de sumar y le damos a docker connection  y ya debería de aparecer como en la imagen
+
+en phpstorm vamos a servicios para ver las cosas
+
+
+
+
+
+los datos no tienen porque concordar con el del comando, se prefiere para evitar confusión.
+
+Para ejecutar los comandos se usa el click derecho y ejecutar
+
+![feliz2](./imagenes/pruebafeliz.png)
+Para comprobar byuena conexion se hace un test connection
+
+![feliz](./imagenes/felicidad.png)
