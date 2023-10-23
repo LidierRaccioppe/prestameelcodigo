@@ -18,7 +18,7 @@ siendo estos para indicar que *puerto de la máquina nativa* debe de enlazarse c
 que *puerto del contenedor* que se le indique, en ese orden.
 
 Otros modificadores son `networks` que son utilizados para permitir 
-la *comunicación más fácil * entre los distintos *contenedores* que 
+la *comunicación más fácil* entre los distintos *contenedores* que 
 se encuentren en el compose. En este caso se debe de establacer una `networks` de orden superior y luego hacer que esta sea referenciada dentro de los contenedores donde se necesite.
 
 Tambien esta el modificador `depends_on` que establecen un orden en el que se iniciaran los contenedores, para asi evitar que
